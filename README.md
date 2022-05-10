@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Daniil</h1>
-<h3>A Python Backend Developer from Russia. Previously, he was actively involved in the development of chat bots.</h3>
+<h3>Python backend developer from Russia. Previously, I was actively involved in the development of chat bots.</h3>
 
 <ul>
     <li>📩 Email for offers: <b>daniilchernyj@outlook.com</b></li>
