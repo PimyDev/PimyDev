@@ -27,6 +27,7 @@
     <li>PostgreSQL</li>
     <li>Redis</li>
     <li>SqlAlchemy with Asyncpg</li>
+    <li>Alembic</li>
     <li>Docker</li>
     <li>Nginx</li>
     <li>Traefik</li>
